@@ -33,22 +33,37 @@ Then The focus was put on the CSS of the loader screen in which was coded like t
 ![LOADER](https://user-images.githubusercontent.com/55785835/103903415-c4905380-50f3-11eb-949b-30e926259c2e.gif)
 
 
-
-
-
-
-
-
-
+In evaluation the overall practicality of the loader screen was there. The loader screen created is quite a simple design however it is clear and works smoothly; following the guidelines given allowed for the design to be created professionally and help to develope the overall size of the loading icon in order so it wasn't too overwhelming on the page. Upon asking other students they said the design was sleek and professional looking, there critique was that the centre of the design should have moved faster. 
 
 
 
 ## Element 2- Buttons ##
+Buttons 
+
+### Guidelines ###
+
+### Design Prototyping ###
+### Coding ###
+### Demonstration of the working loading screen ###
 
 ## Element 3- Notifications 
 
+### Guidelines ###
+### Design Prototyping ###
+### Coding ###
+### Demonstration of the working loading screen ###
+
 ## Element 4- Forms ## 
+### Guidelines ###
+### Design Prototyping ###
+### Coding ###
+### Demonstration of the working loading screen ###
+
 ##  Element 5 - 
+### Guidelines ###
+### Design Prototyping ###
+### Coding ###
+### Demonstration of the working loading screen ###
 
 
 
