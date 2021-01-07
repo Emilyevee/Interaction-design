@@ -11,6 +11,15 @@ In order to create a practical loading screen, you need to think about the posit
 ### Design Prototyping ### 
 For the design protype the software Adobe XD was used; Adobe XD allowed for a visual representation of the loader screen to be created.  For the design three separate screens were create; the design is simple but affective, it started with just four circles. The idea of the design Is that the middle part rotates and changes size in order to represent a twist on the classic spinning wheel. Once this was perfected Text was added in order to make the page clearer; the text is also animated as it moves with the page loading, the idea of this is so when the page is loading the text gradually aligns in order for the user to see the pages progress as it is loading up.
 
+<img width="400" alt="Screenshot 2021-01-07 at 11 31 23" src="https://user-images.githubusercontent.com/55785835/103897851-00271f80-50ec-11eb-9962-a4a8b4ce2290.png">
+
+<img width="400" alt="Screenshot 2021-01-07 at 11 31 33" src="https://user-images.githubusercontent.com/55785835/103898335-affc8d00-50ec-11eb-902c-07de82019e0f.png">
+
+<img width="400" alt="Screenshot 2021-01-07 at 11 31 40" src="https://user-images.githubusercontent.com/55785835/103898374-bd197c00-50ec-11eb-857a-3d1e8de77a12.png">
+
+
+
+
 
 
 
