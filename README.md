@@ -8,4 +8,19 @@ Loader screens are seen by millions of people every day, they are used to give t
 ### Guidelines ###
 In order to create a practical loading screen, you need to think about the positions and layout of the screen. The Loading screen should only be around 3-4 seconds, this is because you don't want to leave the user getting frustrated that the page/app hasn't loaded. The design for the Loader screen should be simple but visual, this may be the first thing a user sees entering a webpage; therefore, it is important for it to be designed with effect. With the overall positioning of the loader it is import for it to be central on the page, this is so its easy for the user to see straight away and the overall look on the page is better. It is also important for it to be central so it is clear, if the design was up in the corner it wouldn't be seen as quickly.  In terms of size it is important the loader doesn't over power the whole page, the loader should be around 200 x 200mm on a standard webpage; this size will mean it is visually clear for the user. It is important when designing a loader screen that it can easily adapted depending on what device it is being used on e.g. smartphone or laptop. It also needs to be able to adapt to sudden changes e.g. when an internet tab gets bigger/smaller, so that the user can see it at anytime. 
 
+### Design Prototyping ### 
+For the design protype i used Adobe XD.
+
+
+
+
+
+## Element 2- Buttons ##
+
+## Element 3- Notifications 
+
+## Element 4- Forms ## 
+##  Element 5 - 
+
+
 
