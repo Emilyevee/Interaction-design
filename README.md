@@ -69,13 +69,22 @@ Buttons
 
 ### Design Prototyping ###
 
+<img width="333" alt="Screenshot 2021-01-07 at 19 13 49" src="https://user-images.githubusercontent.com/55785835/103934241-94a97600-511c-11eb-9b74-41905944850c.png">
+
+<img width="522" alt="Screenshot 2021-01-07 at 19 14 19" src="https://user-images.githubusercontent.com/55785835/103934248-970bd000-511c-11eb-8e5b-517ddd723e38.png">
+
+
 ### Coding ###
 
 ### Demonstration of the working loading screen ###
+![Screen Recording 2021-01-07 at 19 08 44](https://user-images.githubusercontent.com/55785835/103934053-3b414700-511c-11eb-9c1e-9e81b123866c.gif)
+
 
 
 ## Element 4- Forms ## 
+
 ### Guidelines ###
+
 ### Design Prototyping ###
 
 <img width="889" alt="Screenshot 2021-01-07 at 17 18 18" src="https://user-images.githubusercontent.com/55785835/103923018-7dfb2300-510c-11eb-81b5-b583b75fff49.png">
