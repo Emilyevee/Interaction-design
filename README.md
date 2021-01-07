@@ -38,20 +38,41 @@ In evaluation the overall practicality of the loader screen was there. The loade
 
 
 ## Element 2- Buttons ##
+![jelly-button](https://user-images.githubusercontent.com/55785835/103905859-0bcc1380-50f7-11eb-8bfe-13e874475305.png)
+
 Buttons 
 
 ### Guidelines ###
 
 ### Design Prototyping ###
+
+<img width="359" alt="Screenshot 2021-01-07 at 16 36 02" src="https://user-images.githubusercontent.com/55785835/103918389-a718b500-5106-11eb-9a02-273c1644ac44.png">
+
+
+<img width="314" alt="Screenshot 2021-01-07 at 16 36 07" src="https://user-images.githubusercontent.com/55785835/103918371-a1bb6a80-5106-11eb-944d-034c99954b26.png">
+
 ### Coding ###
-### Demonstration of the working loading screen ###
+
+<img width="427" alt="Screenshot 2021-01-07 at 16 29 21" src="https://user-images.githubusercontent.com/55785835/103917806-f01c3980-5105-11eb-869d-119aad98030d.png">
+
+<img width="334" alt="Screenshot 2021-01-07 at 16 29 36" src="https://user-images.githubusercontent.com/55785835/103917828-f4485700-5105-11eb-9a9a-7df45b25bf3b.png">
+
+### Demonstration of the working Button ###
+
+![BUTTON](https://user-images.githubusercontent.com/55785835/103918307-8c464080-5106-11eb-98f3-b202f9c2075e.gif)
+
+
 
 ## Element 3- Notifications 
 
 ### Guidelines ###
+
 ### Design Prototyping ###
+
 ### Coding ###
+
 ### Demonstration of the working loading screen ###
+
 
 ## Element 4- Forms ## 
 ### Guidelines ###
