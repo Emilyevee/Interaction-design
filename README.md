@@ -3,6 +3,8 @@
 
 ## Element 1- Loader Screens ##
 
+![Loading-Screen-Animation](https://user-images.githubusercontent.com/55785835/103898558-023dae00-50ed-11eb-8e01-ba0c3920c43f.png)
+
 Loader screens are seen by millions of people every day, they are used to give the user something to look out while they wait for their page to load. Loader screens are used as a source of information too, it makes it clearer to the reader that the page they are waiting for is loading rather than keep trying to refresh the page.  There are many different forms of loading screens, some are interactive whilst others are just basic spinning wheels, some loading screens even give you hints, tips and facts while you wait to make it more interactive for the user. There main purpose is to allow all the assets of the page to be loaded in a high quality so that when you get onto the page it is fault free with a crisp display. 
 
 ### Guidelines ###
