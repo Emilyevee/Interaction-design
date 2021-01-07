@@ -77,8 +77,23 @@ Buttons
 ## Element 4- Forms ## 
 ### Guidelines ###
 ### Design Prototyping ###
+
+<img width="889" alt="Screenshot 2021-01-07 at 17 18 18" src="https://user-images.githubusercontent.com/55785835/103923018-7dfb2300-510c-11eb-81b5-b583b75fff49.png">
+
+<img width="276" alt="Screenshot 2021-01-07 at 17 18 56" src="https://user-images.githubusercontent.com/55785835/103923022-7f2c5000-510c-11eb-850a-762eb81b70bc.png">
+
+<img width="941" alt="Screenshot 2021-01-07 at 17 12 19" src="https://user-images.githubusercontent.com/55785835/103922762-1fce4000-510c-11eb-924d-956b0df189ee.png">
+
 ### Coding ###
+
+<img width="338" alt="Screenshot 2021-01-07 at 18 07 19" src="https://user-images.githubusercontent.com/55785835/103928215-6d9a7680-5113-11eb-8046-34f2c6ad76d9.png">
+
+<img width="384" alt="Screenshot 2021-01-07 at 18 07 31" src="https://user-images.githubusercontent.com/55785835/103928221-6f643a00-5113-11eb-88c5-25eb838ad533.png">
+
 ### Demonstration of the working loading screen ###
+
+![Screen Recording 2021-01-07 at 17 09 01](https://user-images.githubusercontent.com/55785835/103923116-9ec37880-510c-11eb-88ea-22e5c63d883e.gif)
+
 
 ##  Element 5 - 
 ### Guidelines ###
