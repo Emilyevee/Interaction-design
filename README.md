@@ -127,23 +127,29 @@ Finally some more Hover buttons where created, these allow the user to select th
 Overall on reflection of the final form design, the research and guidelines created allowed for the form to successfully be created in a modern and user friendly way. It has a clear design layout that fits in with the entirety of the website and is data sensitive meaning only the correct data can be implemented. 
 
 ##  Element 5 - Web Navigation ##
-Having navigation on any application or webpage is essential. Navigation bar  
+Having navigation on any application or webpage is essential. Navigation bars are tools used to help the user travel around the website; if a navigation bar is faulty it will affect the whole website as certain pages won't be able to be reached by the user. There are several different types of web navigation tools, however depending on what website it is designed for will decide navigation tool to use. For this componet a side pop out navigation is going to be created. 
+
 ### Guidelines ###
-The componet should hole links to all the pages that arent as import 
+It is important to create an easy to use navigation pannel that is accessible throughout the website; The navigation pannel design should be clear, simple and consistent.  The placement of the navigation tool should be easily accessable and intruitive for the user; the colouring of the navagation tool should also be taken into consideration as you want it to stand out against other features of the page. It is imporant to keep the naviagation bar a solid colour so it is clear and the text easily pops out in order for the user to find what they are looking for. Spacing also needs to be considered; there should be appropriate spacing between each link so that it isn't too overwhelming for the user. 
+
 ### Design Prototyping ###
-<img width="69" alt="Screenshot 2021-01-08 at 14 31 00" src="https://user-images.githubusercontent.com/55785835/104026681-3208b680-51be-11eb-9daf-fe0a9fa39ee9.png">
+<img width="150" alt="Screenshot 2021-01-08 at 14 31 00" src="https://user-images.githubusercontent.com/55785835/104026681-3208b680-51be-11eb-9daf-fe0a9fa39ee9.png">. 
 The first section of the design prototyping was to design the navigation element of the design. The tab fits in with the dark colour scheme of the overall website and suggests links to pages in which will help the customer travel round the webpage efficently. 
 
 <img width="292" alt="Screenshot 2021-01-08 at 14 31 13" src="https://user-images.githubusercontent.com/55785835/104026688-33d27a00-51be-11eb-98f2-d11a6c3e68ad.png">
-Once that had been done it was important to test what the navigation bar would look like on the webpage design. The overall design fits well with the current design and has all features needed to navigate. Hover effects were also added to the catorgires in order to make it easy for the user to understand it is a link to a new page. 
+Once that had been done it was important to test what the navigation bar would look like on the webpage design. The overall design fits well with the current design of the website and has all features needed to navigate. Hover effects were also added to the catorgires in order to make it easy for the user to understand it is a link to a new page. 
 
 ### Coding ###
 
+<img width="295" alt="Screenshot 2021-01-08 at 15 03 24" src="https://user-images.githubusercontent.com/55785835/104030062-b6f5cf00-51c2-11eb-98d4-a8121f316818.png">
+<img width="245" alt="Screenshot 2021-01-08 at 15 03 29" src="https://user-images.githubusercontent.com/55785835/104030065-b826fc00-51c2-11eb-80ab-dcd39b844d28.png">
 
 
 ### Demonstration of the Web Navigation ###
 
 ![Screen Recording 2021-01-08 at 14 28 13](https://user-images.githubusercontent.com/55785835/104027138-e1458d80-51be-11eb-80a1-807779f17f53.gif)
+
+Overall by exploring different types of web navigation systems has allowed the most suitible to be designed for the website it was created for. The navigation bar is informative, easy to use and clear for the user. 
 
 
 
