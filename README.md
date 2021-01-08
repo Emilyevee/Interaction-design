@@ -1,6 +1,8 @@
 # Interaction-design Com525
 **Southampton Solent university**
 
+**Link- https://github.com/Emilyevee/Interaction-design**
+
 ## Element 1- Loader Screens ##
 
 ![Loading-Screen-Animation](https://user-images.githubusercontent.com/55785835/103898558-023dae00-50ed-11eb-8e01-ba0c3920c43f.png)
@@ -38,7 +40,6 @@ In evaluation the overall practicality of the loader screen was there. The loade
 
 
 ## Element 2- Hover Button ##
-![jelly-button](https://user-images.githubusercontent.com/55785835/103905859-0bcc1380-50f7-11eb-8bfe-13e874475305.png)
 
 Hover buttons make it easy for the user to identify the difference between text and a link; they work by when hovering your mouse over a link it may change the colour, size or text on that button. 
 Hover buttons inform the user that they can interact with the button and select it to be taken to a new part of the website. They are mainly only used on Webpages when viewed on laptops or desktop computers as they require a mouse to work in which smartphones and tablets don't have. For a smartphone or tablet a mobile ripple effect can be created which is similar to a hover effect; this makes it import for the hover button to be easily changeable into a ripple effect button when viewed on different devices. If a hover button was placed on a mobile applicaiton it would cause the button to get stuck in a hovered state which may confuse the user.  
@@ -133,7 +134,7 @@ Having navigation on any application or webpage is essential. Navigation bars ar
 It is important to create an easy to use navigation pannel that is accessible throughout the website; The navigation pannel design should be clear, simple and consistent.  The placement of the navigation tool should be easily accessable and intruitive for the user; the colouring of the navagation tool should also be taken into consideration as you want it to stand out against other features of the page. It is imporant to keep the naviagation bar a solid colour so it is clear and the text easily pops out in order for the user to find what they are looking for. Spacing also needs to be considered; there should be appropriate spacing between each link so that it isn't too overwhelming for the user. 
 
 ### Design Prototyping ###
-<img width="150" alt="Screenshot 2021-01-08 at 14 31 00" src="https://user-images.githubusercontent.com/55785835/104026681-3208b680-51be-11eb-9daf-fe0a9fa39ee9.png">. 
+<img width="150" alt="Screenshot 2021-01-08 at 14 31 00" src="https://user-images.githubusercontent.com/55785835/104026681-3208b680-51be-11eb-9daf-fe0a9fa39ee9.png">
 The first section of the design prototyping was to design the navigation element of the design. The tab fits in with the dark colour scheme of the overall website and suggests links to pages in which will help the customer travel round the webpage efficently. 
 
 <img width="292" alt="Screenshot 2021-01-08 at 14 31 13" src="https://user-images.githubusercontent.com/55785835/104026688-33d27a00-51be-11eb-98f2-d11a6c3e68ad.png">
