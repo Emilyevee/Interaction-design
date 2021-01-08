@@ -40,8 +40,11 @@ In evaluation the overall practicality of the loader screen was there. The loade
 ## Element 2- Hover Button ##
 ![jelly-button](https://user-images.githubusercontent.com/55785835/103905859-0bcc1380-50f7-11eb-8bfe-13e874475305.png)
 
+Hover buttons make it easy for the user to identify the difference between text and a link; they work by when hovering your mouse over a link it may change the colour, size or text on that button. 
+Hover buttons inform the user that they can interact with the button and select it to be taken to a new part of the website. They are mainly only used on Webpages when viewed on laptops or desktop computers as they require a mouse to work in which smartphones and tablets don't have. For a smartphone or tablet a mobile ripple effect can be created which is similar to a hover effect; this makes it import for the hover button to be easily changeable into a ripple effect button when viewed on different devices. If a hover button was placed on a mobile applicaiton it would cause the button to get stuck in a hovered state which may confuse the user.  
 
 ### Guidelines ###
+When creating a hover button it needs to be simple, clear and smoothly functioning. The button needs to be placed in a stratigical place in order to catch the users eye so they are more likely to click on it. It is also important to apply appropriate colours to the buttons so they are intutitve to the user. For dark backgrounds the buttons will want to be a lighter colour in order to stand out for the user. There also needs be text on the buttons to help indicatace there purpose and make them easily recognisable. It is also important for for the button to not be too big, the button needs to fit in with the rest of the elements on the webpage. 
 
 ### Design Prototyping ###
 
@@ -49,6 +52,7 @@ In evaluation the overall practicality of the loader screen was there. The loade
 
 
 <img width="314" alt="Screenshot 2021-01-07 at 16 36 07" src="https://user-images.githubusercontent.com/55785835/103918371-a1bb6a80-5106-11eb-944d-034c99954b26.png">
+When prototyping the button the first step was to create two different button designs. The main colours used were black and white in order to make them stand out on the current webpage design. The idea is the design will go from white to black when hovered overed to link to the sign up page. By adding text to the button makes it extra clear where the link will take the user making it more inforamtive and clarifying it's purpose.  
 
 ### Coding ###
 
@@ -60,6 +64,7 @@ In evaluation the overall practicality of the loader screen was there. The loade
 
 ![BUTTON](https://user-images.githubusercontent.com/55785835/103918307-8c464080-5106-11eb-98f3-b202f9c2075e.gif)
 
+Upon reflection the button is a modern simplistic design, the hover feature works smoothly and clearly identifies the link to the sign up page. The use of a black and white colour scheme makes the button easily visable; the location of the button on the webpage is also good as it near other interactive elements of the webpage. 
 
 
 ## Element 3- Notifications 
