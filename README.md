@@ -67,15 +67,20 @@ When prototyping the button the first step was to create two different button de
 Upon reflection the button is a modern simplistic design, the hover feature works smoothly and clearly identifies the link to the sign up page. The use of a black and white colour scheme makes the button easily visable; the location of the button on the webpage is also good as it near other interactive elements of the webpage. 
 
 
-## Element 3- Notifications 
+## Element 3- Notification Pop Up ##
+
+Notifications are an essential part of any website. Notifications help to inform the user on a varitey of different aspects including if something was successful/failed or if there is a new promotion. Notifications are useful as they get to the user staight away, which will allow them to click on the notifciation and get directed to the correct page within seconds. The majority of notification pop-ups use bold fonts with a simplistic designs in order to it is clear and straight to the point for the user to understand. Pop up notifications also allow the brand to communicate with the user easily. 
 
 ### Guidelines ###
+When creating a notificaiton pop up it is important to consider the size and placement of the notification; Ideally the notification will be central on the page as thats where the users eye is often drawn too. The pop up notification should also be quite big for a standard webpage that would mean a sizing around a hight of 400mm and. a width of around 1100; The notification pop up should be quite large so it is easily viewable and understandable for the user. The pop up notification will also need to be seen instantly after the webpage has loaded in order so that it doesn't disturb the users use of the webpage once they have began using it. It is important to make sure the pop up is easily adaptable for all screen sizes and works across all software; this is so it is accessible for everyone not matter where they are or what type of device they are using. 
+The colouring for this pop up should be easily readable for the user and fit in for the overall webpage it is produced on; it is also important to use a simple bold font to get the message of the notification across efficently.
 
 ### Design Prototyping ###
-
 <img width="333" alt="Screenshot 2021-01-07 at 19 13 49" src="https://user-images.githubusercontent.com/55785835/103934241-94a97600-511c-11eb-9b74-41905944850c.png">
+When begining to prototype the design the first thing done was too create a basic notification conveying the purpose of the pop up. The first basic design inclued the font type, font size and the colour scheme that was going to be used on it. 
 
 <img width="522" alt="Screenshot 2021-01-07 at 19 14 19" src="https://user-images.githubusercontent.com/55785835/103934248-970bd000-511c-11eb-8e5b-517ddd723e38.png">
+Once the basic measures were in place this allowed the pop up to be sized up correctly against a webpage; This allowed for an accurate pop up sixe to be created. More design features where then added incluing a tick to demonstrate the sign up was successful and a tick in order for the user to easily exit the pop up and continue back to the main home page of the website.  
 
 
 ### Coding ###
@@ -85,6 +90,8 @@ Upon reflection the button is a modern simplistic design, the hover feature work
 
 ### Demonstration of the working Notification ###
 ![Screen Recording 2021-01-07 at 19 08 44](https://user-images.githubusercontent.com/55785835/103934053-3b414700-511c-11eb-9c1e-9e81b123866c.gif)
+
+Overall the pop up notifcation follows all the guidlines put in place. The design is bold, simple yet effective and clear for the user to understand. The design itself is modern and the use of a bold black font helps to make the notifcation purpose pop out against the pale pink back ground. The notification is fully functioning with the X on the design redirecting the user back to the home page. 
 
 
 
@@ -119,7 +126,8 @@ Finally some more Hover buttons where created, these allow the user to select th
 
 Overall on reflection of the final form design, the research and guidelines created allowed for the form to successfully be created in a modern and user friendly way. It has a clear design layout that fits in with the entirety of the website and is data sensitive meaning only the correct data can be implemented. 
 
-##  Element 5 - Smartphone Scroll menu ##
+##  Element 5 - Web Navigation ##
+Having navigation on any application or webpage is essential. 
 ### Guidelines ###
 ### Design Prototyping ###
 ### Coding ###
