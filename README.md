@@ -79,6 +79,9 @@ Upon reflection the button is a modern simplistic design, the hover feature work
 
 
 ### Coding ###
+<img width="450" alt="Screenshot 2021-01-08 at 12 57 10" src="https://user-images.githubusercontent.com/55785835/104018321-7b9ed480-51b1-11eb-83a6-c709dc3ffb03.png">
+<img width="335" alt="Screenshot 2021-01-08 at 13 00 03" src="https://user-images.githubusercontent.com/55785835/104018306-76da2080-51b1-11eb-95d6-4cd007e66fa9.png">
+
 
 ### Demonstration of the working Notification ###
 ![Screen Recording 2021-01-07 at 19 08 44](https://user-images.githubusercontent.com/55785835/103934053-3b414700-511c-11eb-9c1e-9e81b123866c.gif)
