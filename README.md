@@ -37,10 +37,9 @@ In evaluation the overall practicality of the loader screen was there. The loade
 
 
 
-## Element 2- Buttons ##
+## Element 2- Hover Button ##
 ![jelly-button](https://user-images.githubusercontent.com/55785835/103905859-0bcc1380-50f7-11eb-8bfe-13e874475305.png)
 
-Buttons 
 
 ### Guidelines ###
 
@@ -76,22 +75,29 @@ Buttons
 
 ### Coding ###
 
-### Demonstration of the working loading screen ###
+### Demonstration of the working Notification ###
 ![Screen Recording 2021-01-07 at 19 08 44](https://user-images.githubusercontent.com/55785835/103934053-3b414700-511c-11eb-9c1e-9e81b123866c.gif)
 
 
 
 ## Element 4- Forms ## 
+Forms are used mostly on every webapage or applicalication. Most forms should be easy and quick to fill out so you dont ask the user to answer thousands of questions as that may stop them from wanting to complete the form.  All of the fields of the form should be clearly labelled and easily editable so that the user can correct/adapt there answer before submitting the form. Many forms are often made up of senstivie data; therefore, security on the form needs to be high so that users feel safe when putting in there personal details. Forms also always come with a user error, this is so the form can be filled out with the appropriete information and then be returned back to the user if filled in wrong. 
+Many of us now have a range of devices in the home, from smartphones to desktop computers; This hightlights the importance of the form being responsive to the size of the page the user is viewing it on. 
 
 ### Guidelines ###
+For this component it is important to focus on the overall guildlines. The form itself needs to allow the user to add different fields into the correct box meaning that the type of field for the question needs to match the data intended to be collected for example if the form is asking you for age, then the box should only allow you add numbers to that box; this allows for no errors in the form to be made by the user. The form also needs to be short and easily accessiable on a wide number of screens, in order to promote people to sign up as its a quick and easy process. 
+The form that is going to be developed is a sign up form for a clothing brand, this will need four input fields which are 2 text based fields, 1 number field and then one calendar filed where the calendar is pre loaded as a drop down so the user can select there birthday. 
+Once these fields have been created it is import to add error messages if the wrong type of data has been put in to one of the boxes, this reduces the amount of forms being put to the company with incorrect values in. 
 
 ### Design Prototyping ###
-
-<img width="889" alt="Screenshot 2021-01-07 at 17 18 18" src="https://user-images.githubusercontent.com/55785835/103923018-7dfb2300-510c-11eb-81b5-b583b75fff49.png">
-
 <img width="276" alt="Screenshot 2021-01-07 at 17 18 56" src="https://user-images.githubusercontent.com/55785835/103923022-7f2c5000-510c-11eb-850a-762eb81b70bc.png">
+When beginning the design process the first section that was made was the approprete input boxes as you can see from this 4 fields where made. From doing research into other clothing stores sign up forms; the most commom things asked where Full name, Email, Birthday and postcode. The input boxes included of a drop down box for the postcode with the idea that when the postcode is inputted it will come up with a range of addressed for the user to select the correct one. 
+
+<img width="700" alt="Screenshot 2021-01-07 at 17 18 18" src="https://user-images.githubusercontent.com/55785835/103923018-7dfb2300-510c-11eb-81b5-b583b75fff49.png">
+Once the main fields where created the focus then shifted on to the colour scheme of the form and how it was going to be presented. The colours used are all from the colour pallete of the main website design so that the website as a whole looks professional. 
 
 <img width="941" alt="Screenshot 2021-01-07 at 17 12 19" src="https://user-images.githubusercontent.com/55785835/103922762-1fce4000-510c-11eb-924d-956b0df189ee.png">
+Finally some more Hover buttons where created, these allow the user to select there gender and add a more complex design to the form. 
 
 ### Coding ###
 
@@ -99,16 +105,17 @@ Buttons
 
 <img width="384" alt="Screenshot 2021-01-07 at 18 07 31" src="https://user-images.githubusercontent.com/55785835/103928221-6f643a00-5113-11eb-88c5-25eb838ad533.png">
 
-### Demonstration of the working loading screen ###
+### Demonstration of the working Form ###
 
 ![Screen Recording 2021-01-07 at 17 09 01](https://user-images.githubusercontent.com/55785835/103923116-9ec37880-510c-11eb-88ea-22e5c63d883e.gif)
 
+Overall on reflection of the final form design, the research and guidelines created allowed for the form to successfully be created in a modern and user friendly way. It has a clear design layout that fits in with the entirety of the website and is data sensitive meaning only the correct data can be implemented. 
 
-##  Element 5 - 
+##  Element 5 - Smartphone Scroll menu ##
 ### Guidelines ###
 ### Design Prototyping ###
 ### Coding ###
-### Demonstration of the working loading screen ###
+### Demonstration of the scroll menu ###
 
 
-
+mm
