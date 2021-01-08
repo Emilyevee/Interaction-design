@@ -127,11 +127,23 @@ Finally some more Hover buttons where created, these allow the user to select th
 Overall on reflection of the final form design, the research and guidelines created allowed for the form to successfully be created in a modern and user friendly way. It has a clear design layout that fits in with the entirety of the website and is data sensitive meaning only the correct data can be implemented. 
 
 ##  Element 5 - Web Navigation ##
-Having navigation on any application or webpage is essential. 
+Having navigation on any application or webpage is essential. Navigation bar  
 ### Guidelines ###
+The componet should hole links to all the pages that arent as import 
 ### Design Prototyping ###
+<img width="69" alt="Screenshot 2021-01-08 at 14 31 00" src="https://user-images.githubusercontent.com/55785835/104026681-3208b680-51be-11eb-9daf-fe0a9fa39ee9.png">
+The first section of the design prototyping was to design the navigation element of the design. The tab fits in with the dark colour scheme of the overall website and suggests links to pages in which will help the customer travel round the webpage efficently. 
+
+<img width="292" alt="Screenshot 2021-01-08 at 14 31 13" src="https://user-images.githubusercontent.com/55785835/104026688-33d27a00-51be-11eb-98f2-d11a6c3e68ad.png">
+Once that had been done it was important to test what the navigation bar would look like on the webpage design. The overall design fits well with the current design and has all features needed to navigate. Hover effects were also added to the catorgires in order to make it easy for the user to understand it is a link to a new page. 
+
 ### Coding ###
-### Demonstration of the scroll menu ###
 
 
-mm
+
+### Demonstration of the Web Navigation ###
+
+![Screen Recording 2021-01-08 at 14 28 13](https://user-images.githubusercontent.com/55785835/104027138-e1458d80-51be-11eb-80a1-807779f17f53.gif)
+
+
+
