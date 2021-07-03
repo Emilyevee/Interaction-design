@@ -1,7 +1,7 @@
 # Interaction-design Com525
 **Southampton Solent university**
 
-**Link- https://github.com/Emilyevee/Interaction-design**
+**Hosted- https://github.com/Emilyevee/Interaction-design**
 
 ## Element 1- Loader Screens ##
 
